@@ -1,0 +1,42 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 50px;
+    padding: 50px;
+    background-color: #181818;
+}
+
+.tabelaConteudo{
+    border-collapse: collapse;
+}
+.contener {
+    width: 100%;
+    padding: 50px 5%;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    padding: 0px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs;
+}
+
+.conteudo{
+    padding: 0px;
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.conteudo2{
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.conteudo3{
+    color: #f1f1f1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
